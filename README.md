@@ -93,10 +93,10 @@ It reflects practical implementation of Data Science in financial fraud detectio
 ---
 ## 📸 Dashboard Preview
 
-![Overview](dashboard_screenshots/dashboard1.png)
+![Overview](dashboard_screenshot/dashboard1.png)
 
-![Location and merchant risk](dashboard_screenshots/dashboard2.png)
+![Location and merchant risk](dashboard_screenshot/dashboard2.png)
 
-![Device and transaction type Analysis](dashboard_screenshots/dashboard3.png)
+![Device and transaction type Analysis](dashboard_screenshot/dashboard3.png)
 
 
